@@ -43,6 +43,8 @@ node logAnalysis.ts "prod-api-prod-out.log"
 
 The script will output the results to the console.
 
+Due to size constraints, maybe the entire log file is not being uploaded in github. To overcome this issue, you can download the log files from the drive link and paste them in the project folder and then pass the name of the log file as command line argument in the above shown format.
+
 # Code Snippets
 
 File: logAnalysis.ts
@@ -58,3 +60,5 @@ This code snippet reads a log file, extracts timestamps, and calculates the tota
 ## Task 3 Counting API Calls for each HTTP status code
 
 This code snippet reads a log file, extracts timestamps, and calculates the total count of all API calls for each HTTP status code. It tracks the total count of calls for each HTTP Status code.
+
+
