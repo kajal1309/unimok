@@ -18,12 +18,12 @@ Log files often contain valuable information that can be extracted and analyzed 
 1. Clone this repository to your local machine:
 
 ```bash
-git clone repo link
+git clone  https://github.com/kajal1309/unomok.git
 ```
 2. Navigate to the cloned directory:
 
 ```bash
-cd unmonk
+cd unomok
 ```
 
 # Usage
